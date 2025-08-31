@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.ejercicio4_sem3;
+package com.ejercicios.semana03.ejercicio4;
 
 /**
  *

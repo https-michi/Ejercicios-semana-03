@@ -22,7 +22,7 @@ public class Conversor {
 
     //minutos a segundos
     public static String convertir(long segundos) {
-    return String.format("%d min %02d s", segundos / 60, segundos % 60);
-}
+        return String.format("%d min %02d s", segundos / 60, segundos % 60);
+    }
 
 }

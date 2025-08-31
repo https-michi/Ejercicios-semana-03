@@ -1,4 +1,4 @@
-package com.mycompany.ejercicio3;
+package com.ejercicios.semana03.ejercicio3;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
