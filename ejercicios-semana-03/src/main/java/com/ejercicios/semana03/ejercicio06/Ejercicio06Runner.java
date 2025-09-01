@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Mileny
+ * @author Milenyay 
  */
 public class Ejercicio06Runner {
     
@@ -31,7 +31,7 @@ public class Ejercicio06Runner {
             case 1:
                 libroOpcion = new Libro("Perdida", "Gillian Flynn");
                 libroOpcion.mostrarPag(1, "Era el dia de mi aniversario de bodas cuando mi esposa desaparecio. Cinco \n"
-                        + "anos de matrimonio, y Amy eligio ese dia para esfumarse. No dejo una nota, no hubo \n"
+                        + "aniversarios de matrimonio, y Amy eligio ese dia para esfumarse. No dejo una nota, no hubo \n"
                         + "senales de lucha, simplemente se desvanecio como si nunca hubiera existido. La policia \n"
                         + "me mira con sospecha, los vecinos susurran, y yo se que todos piensan lo mismo.");
                 break;
@@ -55,7 +55,7 @@ public class Ejercicio06Runner {
                 System.out.println("Libro no disponible. Mostrando Perdida por defecto.");
                 libroOpcion = new Libro("Perdida", "Gillian Flynn");
                 libroOpcion.mostrarPag(1, "Era el dia de mi aniversario de bodas cuando mi esposa desaparecio. Cinco \n"
-                        + "anos de matrimonio, y Amy eligio ese dia para esfumarse. No dejo una nota, no hubo \n"
+                        + "aniversarios de matrimonio, y Amy eligio ese dia para esfumarse. No dejo una nota, no hubo \n"
                         + "senales de lucha, simplemente se desvanecio como si nunca hubiera existido. La policia \n"
                         + "me mira con sospecha, los vecinos susurran, y yo se que todos piensan lo mismo.");
                 break;
