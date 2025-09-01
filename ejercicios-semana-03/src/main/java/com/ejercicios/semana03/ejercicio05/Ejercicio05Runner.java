@@ -38,7 +38,7 @@ public class Ejercicio05Runner {
                 tipoMotor = "Electrico"; 
                 break;
             case 3: 
-                tipoMotor = "Híbrido"; 
+                tipoMotor = "Hibrido"; 
                 break;
             case 4: 
                 tipoMotor = "GLP"; 
